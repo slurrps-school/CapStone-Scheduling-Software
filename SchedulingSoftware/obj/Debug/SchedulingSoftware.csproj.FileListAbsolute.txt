@@ -1,0 +1,753 @@
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\MetroFramework.Design.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\MetroFramework.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\MetroFramework.Fonts.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.SuggestedBindingRedirects.cache
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.frmLogin.resources
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmRegistration.resources
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmMain.resources
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\MetroFramework.Design.dll
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\MetroFramework.dll
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\MetroFramework.Fonts.dll
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.frmLogin.resources
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmMain.resources
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmRegistration.resources
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\BouncyCastle.Crypto.dll
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\Google.Protobuf.dll
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.dll
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.dll
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\MySql.Data.dll
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Buffers.dll
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Memory.dll
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.dll
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\Ubiety.Dns.Core.dll
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\ZstdNet.dll
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\Google.Protobuf.pdb
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\Google.Protobuf.xml
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.xml
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.xml
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\MySql.Data.xml
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Buffers.xml
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Memory.xml
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.xml
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\BouncyCastle.Crypto.dll
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\Google.Protobuf.dll
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.dll
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.dll
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\MetroFramework.Design.dll
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\MetroFramework.dll
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\MetroFramework.Fonts.dll
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\MySql.Data.dll
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Buffers.dll
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Memory.dll
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.dll
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\Ubiety.Dns.Core.dll
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\ZstdNet.dll
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\Google.Protobuf.pdb
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\Google.Protobuf.xml
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.xml
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.xml
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\MySql.Data.xml
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Buffers.xml
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Memory.xml
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.xml
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.SuggestedBindingRedirects.cache
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.frmLogin.resources
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmMain.resources
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmRegistration.resources
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\BouncyCastle.Crypto.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\Google.Protobuf.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\MySql.Data.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Buffers.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Memory.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\Ubiety.Dns.Core.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\ZstdNet.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\Google.Protobuf.pdb
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\Google.Protobuf.xml
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.xml
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.xml
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\MySql.Data.xml
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Buffers.xml
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Memory.xml
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.xml
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\BouncyCastle.Crypto.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MetroFramework.Design.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MetroFramework.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MetroFramework.Fonts.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MySql.Data.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Buffers.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Memory.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Ubiety.Dns.Core.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\ZstdNet.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.pdb
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MySql.Data.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Buffers.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Memory.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.frmLogin.resources
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmMain.resources
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmRegistration.resources
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MetroFramework.Design.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MetroFramework.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MySql.Data.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Buffers.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Memory.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\ZstdNet.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.pdb
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.xml
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MySql.Data.xml
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Buffers.xml
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Memory.xml
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.frmLogin.resources
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmMain.resources
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmRegistration.resources
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+C:\Users\LabUser\Downloads\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\BouncyCastle.Crypto.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MetroFramework.Design.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MetroFramework.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MetroFramework.Fonts.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MySql.Data.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Buffers.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Memory.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Ubiety.Dns.Core.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\ZstdNet.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.pdb
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MySql.Data.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Buffers.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Memory.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.frmLogin.resources
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmMain.resources
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmRegistration.resources
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\BouncyCastle.Crypto.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MetroFramework.Design.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MetroFramework.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MetroFramework.Fonts.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MySql.Data.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Buffers.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Memory.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Ubiety.Dns.Core.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\ZstdNet.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.pdb
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.xml
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.xml
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.xml
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MySql.Data.xml
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Buffers.xml
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Memory.xml
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.xml
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.SuggestedBindingRedirects.cache
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.frmLogin.resources
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmMain.resources
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmRegistration.resources
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware - Copy (1)\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\BouncyCastle.Crypto.dll
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.dll
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.dll
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.dll
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MetroFramework.Design.dll
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MetroFramework.dll
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MetroFramework.Fonts.dll
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MySql.Data.dll
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Buffers.dll
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Memory.dll
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.dll
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Ubiety.Dns.Core.dll
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\WindowsFormsCalendar.dll
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\ZstdNet.dll
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.pdb
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.xml
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.xml
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.xml
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MySql.Data.xml
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Buffers.xml
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Memory.xml
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.xml
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.SuggestedBindingRedirects.cache
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.frmLogin.resources
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmMain.resources
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmRegistration.resources
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmCustomers.resources
+G:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmAppointments.resources
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\WindowsFormsCalendar.dll
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmAppointments.resources
+F:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmCustomers.resources
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\BouncyCastle.Crypto.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MetroFramework.Design.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MetroFramework.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MetroFramework.Fonts.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MySql.Data.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Buffers.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Memory.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Ubiety.Dns.Core.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\WindowsFormsCalendar.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\ZstdNet.dll
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.pdb
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.xml
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.xml
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.xml
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\MySql.Data.xml
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Buffers.xml
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Memory.xml
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.xml
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.SuggestedBindingRedirects.cache
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmAppointments.resources
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmCustomers.resources
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.frmLogin.resources
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmMain.resources
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmRegistration.resources
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+D:\School Work\C# II Class\SchedulingSoftware - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\WindowsFormsCalendar.dll
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmAppointments.resources
+D:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmCustomers.resources
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\bin\Debug\WindowsFormsCalendar.dll
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmAppointments.resources
+F:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmCustomers.resources
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\Google.Protobuf.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\MetroFramework.Design.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\MetroFramework.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\MySql.Data.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Buffers.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Memory.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\WindowsFormsCalendar.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\ZstdNet.dll
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\Google.Protobuf.pdb
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\Google.Protobuf.xml
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\MySql.Data.xml
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Buffers.xml
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Memory.xml
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmAppointments.resources
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmCustomers.resources
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.frmLogin.resources
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmMain.resources
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmRegistration.resources
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+C:\Users\LabUser\Downloads\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\BouncyCastle.Crypto.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\Google.Protobuf.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\MetroFramework.Design.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\MetroFramework.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\MetroFramework.Fonts.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\MySql.Data.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Buffers.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Memory.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\Ubiety.Dns.Core.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\WindowsFormsCalendar.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\ZstdNet.dll
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\Google.Protobuf.pdb
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\Google.Protobuf.xml
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.xml
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.xml
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\MySql.Data.xml
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Buffers.xml
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Memory.xml
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.xml
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.SuggestedBindingRedirects.cache
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmAppointments.resources
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmCustomers.resources
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.frmLogin.resources
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmMain.resources
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmRegistration.resources
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+G:\School Work\C# II Class\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\BouncyCastle.Crypto.dll
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\Google.Protobuf.dll
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.dll
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.dll
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\MetroFramework.Design.dll
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\MetroFramework.dll
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\MetroFramework.Fonts.dll
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\MySql.Data.dll
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\System.Buffers.dll
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\System.Memory.dll
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.dll
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\Ubiety.Dns.Core.dll
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\WindowsFormsCalendar.dll
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\ZstdNet.dll
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\Google.Protobuf.pdb
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\Google.Protobuf.xml
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.xml
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.xml
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\MySql.Data.xml
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\System.Buffers.xml
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\System.Memory.xml
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.xml
+E:\GitLab\Scheduling Software\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\GitLab\Scheduling Software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+E:\GitLab\Scheduling Software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.SuggestedBindingRedirects.cache
+E:\GitLab\Scheduling Software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmAppointments.resources
+E:\GitLab\Scheduling Software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmCustomers.resources
+E:\GitLab\Scheduling Software\SchedulingSoftware\obj\Debug\SchedulingSoftware.frmLogin.resources
+E:\GitLab\Scheduling Software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmMain.resources
+E:\GitLab\Scheduling Software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmRegistration.resources
+E:\GitLab\Scheduling Software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+E:\GitLab\Scheduling Software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+E:\GitLab\Scheduling Software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+E:\GitLab\Scheduling Software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+E:\GitLab\Scheduling Software\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+E:\GitLab\Scheduling Software\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+E:\GitLab\Scheduling Software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Test.frmReminder.resources
+E:\GitLab\Scheduling Software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Test.frmReports.resources
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\Google.Protobuf.dll
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\MetroFramework.Design.dll
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\MetroFramework.dll
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\MySql.Data.dll
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\System.Buffers.dll
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\System.Memory.dll
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\WindowsFormsCalendar.dll
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\ZstdNet.dll
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\Google.Protobuf.pdb
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\Google.Protobuf.xml
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\MySql.Data.xml
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\System.Buffers.xml
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\System.Memory.xml
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmAppointments.resources
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmCustomers.resources
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.frmLogin.resources
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmMain.resources
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmRegistration.resources
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Test.frmReminder.resources
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Test.frmReports.resources
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+C:\Users\klamb\Source\Repos\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\Google.Protobuf.dll
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\MetroFramework.Design.dll
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\MetroFramework.dll
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\MySql.Data.dll
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\System.Buffers.dll
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\System.Memory.dll
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\WindowsFormsCalendar.dll
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\ZstdNet.dll
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\Google.Protobuf.pdb
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\Google.Protobuf.xml
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\MySql.Data.xml
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\System.Buffers.xml
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\System.Memory.xml
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmAppointments.resources
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmCustomers.resources
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.frmLogin.resources
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmMain.resources
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmRegistration.resources
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Test.frmReminder.resources
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Test.frmReports.resources
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+C:\Users\LabUser\Downloads\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\BouncyCastle.Crypto.dll
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\Google.Protobuf.dll
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.dll
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.dll
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\MetroFramework.Design.dll
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\MetroFramework.dll
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\MetroFramework.Fonts.dll
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\MySql.Data.dll
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\System.Buffers.dll
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\System.Memory.dll
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.dll
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\Ubiety.Dns.Core.dll
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\WindowsFormsCalendar.dll
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\ZstdNet.dll
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\Google.Protobuf.pdb
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\Google.Protobuf.xml
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.xml
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.xml
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\MySql.Data.xml
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\System.Buffers.xml
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\System.Memory.xml
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.xml
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.SuggestedBindingRedirects.cache
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmAppointments.resources
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmCustomers.resources
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.frmLogin.resources
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmMain.resources
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmRegistration.resources
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Test.frmReminder.resources
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Test.frmReports.resources
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+G:\School Work\C# II Class\scheduling-software\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\BouncyCastle.Crypto.dll
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\Google.Protobuf.dll
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.dll
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.dll
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\MetroFramework.Design.dll
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\MetroFramework.dll
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\MetroFramework.Fonts.dll
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\MySql.Data.dll
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\System.Buffers.dll
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\System.Memory.dll
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.dll
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\Ubiety.Dns.Core.dll
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\WindowsFormsCalendar.dll
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\ZstdNet.dll
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\Google.Protobuf.pdb
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\Google.Protobuf.xml
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.xml
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.xml
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\MySql.Data.xml
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\System.Buffers.xml
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\System.Memory.xml
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.xml
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.SuggestedBindingRedirects.cache
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\MaterialSkin.dll
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Updated_Forms.frmNewLogin.resources
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\BouncyCastle.Crypto.dll
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\Google.Protobuf.dll
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.dll
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.dll
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\MaterialSkin.dll
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\MetroFramework.Design.dll
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\MetroFramework.dll
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\MetroFramework.Fonts.dll
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\MySql.Data.dll
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\System.Buffers.dll
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\System.Memory.dll
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.dll
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\Ubiety.Dns.Core.dll
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\WindowsFormsCalendar.dll
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\ZstdNet.dll
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\Google.Protobuf.pdb
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\Google.Protobuf.xml
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.xml
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.xml
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\MySql.Data.xml
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\System.Buffers.xml
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\System.Memory.xml
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.xml
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe.config
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.exe
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\SchedulingSoftware.pdb
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\BouncyCastle.Crypto.dll
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.dll
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.dll
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.dll
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\MaterialSkin.dll
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\MetroFramework.Design.dll
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\MetroFramework.dll
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\MetroFramework.Fonts.dll
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\MySql.Data.dll
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\System.Buffers.dll
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\System.Memory.dll
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.dll
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\Ubiety.Dns.Core.dll
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\WindowsFormsCalendar.dll
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\ZstdNet.dll
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.pdb
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\Google.Protobuf.xml
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.xml
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\K4os.Hash.xxHash.xml
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\MySql.Data.xml
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\System.Buffers.xml
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\System.Memory.xml
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\System.Numerics.Vectors.xml
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.AssemblyReference.cache
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Properties.Resources.resources
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Updated_Forms.frmNewLogin.resources
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.GenerateResource.cache
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CoreCompileInputs.cache
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.CopyComplete
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.exe
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.pdb
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Updated_Forms.frmNewMain.resources
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Updated_Forms.frmNewRegistration.resources
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmNewAppointment.resources
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Updated_Forms.frmNewReminder.resources
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Updated_Forms.frmNewCustomer.resources
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.Updated_Forms.frmNewReports.resources
+D:\School Work\Capstone\scheduling-software - Copy\SchedulingSoftware\obj\Debug\SchedulingSoftware.csproj.SuggestedBindingRedirects.cache
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmNewAppointment.resources
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Updated_Forms.frmNewCustomer.resources
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Updated_Forms.frmNewMain.resources
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Updated_Forms.frmNewRegistration.resources
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Updated_Forms.frmNewReminder.resources
+D:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Updated_Forms.frmNewReports.resources
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Forms.frmNewAppointment.resources
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Updated_Forms.frmNewCustomer.resources
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Updated_Forms.frmNewLogin.resources
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Updated_Forms.frmNewMain.resources
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Updated_Forms.frmNewRegistration.resources
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Updated_Forms.frmNewReminder.resources
+G:\School Work\Capstone\scheduling-software\SchedulingSoftware\obj\Debug\SchedulingSoftware.Updated_Forms.frmNewReports.resources
